@@ -1,6 +1,19 @@
 element.style {
 }
 
+h2 {
+  font-size: 42px;
+}
+
+.cta {
+color: aquamarine;
+font-size: 16px;}
+
+a:-webkit-any-link {
+cursor: pointer;
+text-decoration: underline;
+}
+
 video {
   object-fit: contain;}
 
@@ -10,4 +23,12 @@ video {
     background-color: black;
     color: white;
   }
-  
+p {
+  color: gray;
+  font-size: 21px;
+  display: block;
+}
+
+.footer {
+  text-align: right;
+}
